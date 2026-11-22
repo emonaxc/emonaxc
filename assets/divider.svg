@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="10" viewBox="0 0 1200 10" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00C2FF" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#00C2FF"/>
+      <stop offset="0.75" stop-color="#8A2BE2"/>
+      <stop offset="1" stop-color="#8A2BE2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect y="4" width="1200" height="2" rx="1" fill="url(#line)" opacity="0.6"/>
+  <rect y="3" width="160" height="4" rx="2" fill="url(#glow)">
+    <animate attributeName="x" values="-160;1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

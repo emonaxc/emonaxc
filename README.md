@@ -1,9 +1,7 @@
 <!-- Profile README · emonaxc · neon cyan → violet on #0D1117 -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:5B8DEF,100:8A2BE2&height=220&section=header&text=EMON%20AXC&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=54&descSize=20"
-    width="100%" alt="EMON AXC" />
+  <img src="https://raw.githubusercontent.com/emonaxc/emonaxc/main/assets/banner.svg" width="100%" alt="EMON AXC — Developer | Builder | Tech Enthusiast" />
 </div>
 
 <div align="center">
@@ -20,7 +18,9 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-00C2FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:8A2BE2&height=3" width="100%" alt="" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emonaxc/emonaxc/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 👨‍💻 Who I Am
 
@@ -37,8 +37,6 @@ APIs, queues, providers, dashboards — and making them survive real traffic.
 | 🤖 **Interested in** | AI, API integrations, bots, backend development |
 | ⚡ **Approach** | Prototype fast, ship clean, automate the boring parts |
 
-<br />
-
 ```ts
 const emonaxc = {
   role: 'Developer & Builder',
@@ -49,7 +47,9 @@ const emonaxc = {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:8A2BE2&height=3" width="100%" alt="" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emonaxc/emonaxc/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🧰 Tech I Work With
 
@@ -66,18 +66,23 @@ const emonaxc = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:8A2BE2&height=3" width="100%" alt="" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emonaxc/emonaxc/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emonaxc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=emonaxc&hide_border=true&background=0D1117&stroke=00C2FF&ring=8A2BE2&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00C2FF&sideLabels=8A2BE2&dates=8B949E" alt="Streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonaxc&theme=tokyonight" alt="Profile summary" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonaxc&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9" alt="Top languages" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=emonaxc&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonaxc&theme=tokyonight" alt="Languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonaxc&theme=tokyonight" alt="Languages by commit" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=emonaxc&hide_border=true&background=0D1117&stroke=00C2FF&ring=8A2BE2&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00C2FF&sideLabels=8A2BE2&dates=8B949E" alt="Streak" />
 </div>
 
 <div align="center">
@@ -92,7 +97,9 @@ const emonaxc = {
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:8A2BE2&height=3" width="100%" alt="" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emonaxc/emonaxc/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🤝 Let's Connect
 
@@ -112,5 +119,5 @@ const emonaxc = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=72" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/emonaxc/emonaxc/main/assets/footer.svg" width="100%" alt="Thanks for visiting" />
 </div>

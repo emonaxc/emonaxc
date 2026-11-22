@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="waveA" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00C2FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8A2BE2" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="waveB" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8A2BE2" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#00C2FF" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="footInk" x1="300" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9BE8FF"/>
+      <stop offset="1" stop-color="#CBA8FF"/>
+    </linearGradient>
+    <clipPath id="box">
+      <rect width="1200" height="190"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#box)">
+    <rect width="1200" height="190" fill="#0D1117"/>
+
+    <g opacity="0.5">
+      <path fill="url(#waveB)" d="M-240 150 C -40 110, 160 190, 360 150 C 560 110, 760 190, 960 150 C 1160 110, 1360 190, 1560 150 L 1560 200 L -240 200 Z">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -240 0; 0 0" dur="18s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <path fill="url(#waveA)" opacity="0.85" d="M-240 165 C -40 130, 160 200, 360 165 C 560 130, 760 200, 960 165 C 1160 130, 1360 200, 1560 165 L 1560 210 L -240 210 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 240 0; 0 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+
+    <text x="600" y="82" text-anchor="middle"
+          font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+          font-size="30" font-weight="700" letter-spacing="2" fill="url(#footInk)">
+      Code &#183; Build &#183; Integrate &#183; Innovate
+    </text>
+
+    <text x="600" y="116" text-anchor="middle"
+          font-family="Fira Code, Consolas, monospace"
+          font-size="13" letter-spacing="2" fill="#7C8DA0">
+      thanks for visiting
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3.4s" repeatCount="indefinite"/>
+    </text>
+
+    <g transform="translate(600 136)">
+      <circle r="3" fill="#00C2FF">
+        <animate attributeName="cx" values="-34;34;-34" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2" fill="#8A2BE2">
+        <animate attributeName="cx" values="34;-34;34" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
